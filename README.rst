@@ -24,7 +24,7 @@ Oracle
 William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
 
 SQL Server
-Rodrigo Dornel @rdornel
+Rodrigo Dornel `@rdornel <https://github.com/rdornel>`_
 
 Jefferson de Souza Gaieuski `@gaieuski <https://github.com/gaieuski>`_ , Alexandre, Carlito, Gabriel, Guilherme Rodrigues Blank, João Marcos Schmalz, João Paulo Furlanetto de Souza, João Vitor Borba Paul, Karoline Zimermann de Souza, Luan Sergio De Lima Ribas, Marcelo Willyan De Sena, Marco Aurélio Dalacort Marques, Mayke Da Rosa Herbst, Ricardo Adilson Da Silva, Samuel João Geron, William Rozin Gaspar, Willian Vilson da Cruz
 
