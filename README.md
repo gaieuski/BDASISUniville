@@ -21,7 +21,7 @@ William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, 
 SQL Server
 Rodrigo Dornel @rdornel
 
-Jefferson de Souza Gaieuski `@gaieuski <https://github.com/gaieuski>`_, Alexandre, Carlito, Gabriel, Guilherme Rodrigues Blank, João Marcos Schmalz, João Paulo Furlanetto de Souza, João Vitor Borba Paul, Karoline Zimermann de Souza, Luan Sergio De Lima Ribas, Marcelo Willyan De Sena, Marco Aurélio Dalacort Marques, Mayke Da Rosa Herbst, Ricardo Adilson Da Silva, Samuel João Geron, William Rozin Gaspar, Willian Vilson da Cruz
+Jefferson de Souza Gaieuski '@gaieuski <http:\\github.com\gaieuski>'_ , Alexandre, Carlito, Gabriel, Guilherme Rodrigues Blank, João Marcos Schmalz, João Paulo Furlanetto de Souza, João Vitor Borba Paul, Karoline Zimermann de Souza, Luan Sergio De Lima Ribas, Marcelo Willyan De Sena, Marco Aurélio Dalacort Marques, Mayke Da Rosa Herbst, Ricardo Adilson Da Silva, Samuel João Geron, William Rozin Gaspar, Willian Vilson da Cruz
 
 Os participantes que não vão estar nas equipes dos SGBDs citados acima vão entrar no projeto do banco de dados para o e-commerce da TrekPix
 
