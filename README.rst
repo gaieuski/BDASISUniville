@@ -1,19 +1,24 @@
 .. figure:: logounivillesis.jpg
   :alt: Univille ENG
- 
- BDASISUniville
+
+# BDASISUniville
 
 Repositório com scripts SQLs disponibilizados para fins de aprendizagem em banco de dados.
 
 ## Trabalho 01
 
-Com base no script MinhaCaixa.sql que foi desenvolvido para MSSQL Server portar ele para os SGBDs listados abaixo. Cada equipe terá que entregar um Esquema do Banco de Dados, um DER feito no BRModelo e um arquivo SQL para a criação do banco.
+Com base no script MinhaCaixa.sql que foi desenvolvido para MSSQL Server portar ele para os SGBDs listados abaixo.
+Cada equipe terá que entregar um Esquema do Banco de Dados, um DER feito no BRModelo e um arquivo SQL para a criação do 
+banco.
 
-MySQL
-Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Gustavo Raphael, João Reis
+* MySQL
 
-PostgreSQL
-Luan Souza, Rafael Lopes, Lais, Guilerme Rocha, Alexandre,
+Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
+
+* PostgreSQL
+
+Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
+Luan Souza, Rafael Lopes, Lais, Guilherminho Rocha  
 
 Oracle
 William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
